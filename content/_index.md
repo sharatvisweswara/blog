@@ -4,6 +4,8 @@ draft = true
 title = 'Sharat Visweswara'
 +++
 
-# Sharat Visweswara
+# Hi, I'm Sharat.
 
-Recent posts:
+Founding/Principal Eng @ Evocalize. Ex-Amazon, Ex-AWS. Backends, Distributed Systems, Databases.
+
+### Recent posts:
