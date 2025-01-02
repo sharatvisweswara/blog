@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharat Visweswara</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sharat Visweswara</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2025 12:15:56 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 02 Jan 2025 12:15:56 -0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is Sharat Visweswara, I live in Seattle and I design and build software at &lt;a href=&#34;https://evocalize.com&#34;&gt;Evocalize&lt;/a&gt;. Prior to that I spent ~10 years building software systems at Amazon.&lt;/p&gt;&#xA;&lt;p&gt;I mostly work on backend systems and focus on data integrity, system scalability and engineering productivity. I have deep expertise in relational databases and multi-tier architectures. I constantly encourage my team to build tools that make their lives easier and that tool-building is as important as product-building for long-term team productivity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 02 Jan 2025 11:50:53 -0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;It is so incredibly easy to set up a personal blog now. I&amp;rsquo;ve picked:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/li&gt;&#xA;&lt;li&gt;the &lt;a href=&#34;https://xmin.yihui.org&#34;&gt;XMin&lt;/a&gt; theme to go with that.&lt;/li&gt;&#xA;&lt;li&gt;and &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt; for hosting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The process is explained in this &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Quickstart&lt;/a&gt; and the &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34;&gt;Hosting on GitHub Pages&lt;/a&gt; guide. I spent about 20 minutes setting this up, and more than that trying to pick a theme.&lt;/p&gt;&#xA;&lt;p&gt;Happy Blogging!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
